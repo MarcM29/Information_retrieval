@@ -14,7 +14,7 @@ ranked list of relevant documents.
 This project was done in Java utilizing nested hashmaps, algorithm optimization, file searching and data management.
 
 # Scheme we followed to implement the pagerank score: 
-● 2d array to create matrix. To store the page to page relationship  
+● 2d array to create matrix. To store the page to page relationship <br/>
   ○ Based off of the .X section in cacm.all 
 ● Normalize the matrix (be aware of rows with all zeros) 
 ● a = 0.85 damping value ● The matrix * (1-a)  

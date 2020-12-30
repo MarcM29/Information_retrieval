@@ -1,0 +1,278 @@
+Search.java example query results 1
+//Run the program//
+Stop word removal/stemming? (y/n): 
+y
+enter numbers for w1
+0.5
+enter numbers for w2
+0.5
+Search: 
+key
+|DocID= 2258 |Title= Additional Results on Key-to-Address Transform |Similarity= 0.170411927152321
+|DocID= 332 |Title= An Indirect Chaining Method for Addressing on Secondary Keys |Similarity= 0.15926955844494495
+|DocID= 2437 |Title= General Performance Analysis of Key-to-Address |Similarity= 0.14194984591170415
+|DocID= 3084 |Title= Interpolation Search -A Log LogN Search |Similarity= 0.13837553212547224
+|DocID= 1271 |Title= Secondary Key Retrieval Using an IBM 7090-1301 System |Similarity= 0.13236767060125015
+|DocID= 2524 |Title= Some Approaches to Best-Match File Searching |Similarity= 0.12709072240480493
+|DocID= 618 |Title= Computers- The Key to Total Systems Control: An Industrial Viewpoint |Similarity= 0.12451367306473912
+|DocID= 2991 |Title= Improving the Access Time for Random Access Files |Similarity= 0.11431234991658613
+|DocID= 1115 |Title= Randomized Binary Searching With Tree Structure |Similarity= 0.11389756073788548
+|DocID= 598 |Title= The COBOL Librarian - A Key to Object Program Efficiency |Similarity= 0.10611024466784034
+|DocID= 2316 |Title= Programming Languages: History and Future |Similarity= 0.10347971859510981
+|DocID= 3158 |Title= Secure Personal Computing in an Insecure Network |Similarity= 0.101645828579041
+|DocID= 2203 |Title= Key-to-Address Transform Techniques: A Fundamental |Similarity= 0.1002679713884755
+|DocID= 1976 |Title= Multi-attribute Retrieval with Combined Indexes |Similarity= 0.09597612154915916
+|DocID= 2688 |Title= Attribute Based File Organization in a Paged Memory Environment |Similarity= 0.09583211231248388
+|DocID= 2251 |Title= Weighted Increment Linear Search for Scatter Tables |Similarity= 0.09464617552075047
+|DocID= 2620 |Title= Execution Time Requirements for Encipherment Programs |Similarity= 0.09463265314135638
+|DocID= 2978 |Title= Analysis of Design Alternatives for Virtual Memory Indexes |Similarity= 0.09364233005317828
+|DocID= 2826 |Title= Interactive Skeleton Techniques for Enhancing |Similarity= 0.09294715014014955
+|DocID= 1487 |Title= ELIZA-A Computer Program For the Study ofNatural |Similarity= 0.09187483660298638
+|DocID= 2846 |Title= Compressed Tries |Similarity= 0.0907342090494652
+|DocID= 3041 |Title= Median Split Trees: A Fast Lookup Technique for Frequently Occuring Keys |Similarity= 0.08971343940911149
+|DocID= 3147 |Title= A Model for Automating File and Program Design in Business Application Systems |Similarity= 0.08946890725411279
+|DocID= 1892 |Title= Degree of Multiprogramming in Page-on-Demand Systems |Similarity= 0.08851422720818101
+|DocID= 854 |Title= Some Characteristics of Sorting in Computing |Similarity= 0.08809266472406531
+|DocID= 3038 |Title= Using Encryption for Authentication in Large Networks of Computers |Similarity= 0.08736296951038394
+|DocID= 3148 |Title= High Level Programming for Distributed Computing |Similarity= 0.0863770186666626
+|DocID= 1724 |Title= A Generalized Partial Pass Block Sort |Similarity= 0.08634054244201554
+|DocID= 2626 |Title= Protection and the Control of Information Sharing in Multics |Similarity= 0.08613173244995728
+|DocID= 3111 |Title= Secure Communications Over Insecure Channels |Similarity= 0.08593120139094716
+|DocID= 2246 |Title= Levels of Language for Portable Software |Similarity= 0.08560064321991834
+|DocID= 3021 |Title= A Method for Obtaining Digital Signatures and Public-Key Cryptosystems |Similarity= 0.0839833040731596
+|DocID= 2888 |Title= Information Reference Coding |Similarity= 0.08351386200271246
+|DocID= 2406 |Title= A Data Definition and Mapping Language |Similarity= 0.08343839700541217
+|DocID= 2631 |Title= An Information-Theoretic Approach to |Similarity= 0.08324215144980596
+|DocID= 2651 |Title= The Treatment of Data Types in EL1 |Similarity= 0.08261245802288915
+|DocID= 1029 |Title= A Simple Automatic Derivative Evaluation Program |Similarity= 0.08127063694983754
+|DocID= 2728 |Title= Consecutive Storage of Relevant Records with Redundancy |Similarity= 0.08001175267982745
+|DocID= 1868 |Title= On Obtaining Correct Input:A New Approach |Similarity= 0.07802306277640192
+|DocID= 3115 |Title= Orderly Enumeration of Nonsingular Binary |Similarity= 0.0767576523597731
+|DocID= 3140 |Title= Social Processes and Proofs of Theorems and Programs |Similarity= 0.07646150839438975
+|DocID= 1742 |Title= On the Design of Display Processors |Similarity= 0.0760277918998902
+|DocID= 2710 |Title= Specifying Queries as Relational Expressions: |Similarity= 0.07488788108086959
+|DocID= 1544 |Title= Tele-CUPL: A Telephone Time Sharing System |Similarity= 0.07332549860879202
+|DocID= 146 |Title= The Use of Computers in Engineering Classroom Instruction  |Similarity= 0.07269586943548045
+|DocID= 2765 |Title= Analysis and performance of Inverted Data Base Structures |Similarity= 0.07134365460931852
+|DocID= 3177 |Title= How to Share a Secret |Similarity= 0.07049326355513605
+|DocID= 2359 |Title= An Improved Index Sequential Access Method Using Hashed Overflow |Similarity= 0.06086375457175773
+|DocID= 2957 |Title= Database Abstractions: Aggregation |Similarity= 0.05987110901737025
+|DocID= 2829 |Title= Texture and Reflection in Computer Generated Images |Similarity= 0.059750407399736895
+
+Search.java example query results 2
+//Run the program
+Stop word removal/stemming? (y/n): 
+y
+enter numbers for w1
+0.7
+enter numbers for w2
+0.3
+Search: 
+monitor
+|DocID= 2796 |Title= Monitors: An Operating System Structuring Concept (Corrigendum) |Similarity= 0.40081776392123464
+|DocID= 754 |Title= Ye Indiscreet Monitor |Similarity= 0.2695727984926747
+|DocID= 1340 |Title= Multiplexing of Slow Peripherals |Similarity= 0.20857779190996173
+|DocID= 2866 |Title= Proving Monitors |Similarity= 0.17633179311993036
+|DocID= 2571 |Title= An Analytic Model of the Hasp Execution Task Monitor |Similarity= 0.1694588215728712
+|DocID= 1363 |Title= A General Method of Systematic Interval Computation |Similarity= 0.1591507539890361
+|DocID= 1603 |Title= A Multiprogramming Monitor for Small Machines |Similarity= 0.1574693296060422
+|DocID= 2597 |Title= Monitors: An Operating System Structuring Concept |Similarity= 0.15560166014233312
+|DocID= 1829 |Title= An Interactive Graphical Display Monitor in |Similarity= 0.15550291333141542
+|DocID= 2946 |Title= An Alternative to Event Queues for Synchronization in Monitors |Similarity= 0.14730424922630952
+|DocID= 1642 |Title= Time Sharing on a Computer with a Small Memory |Similarity= 0.1432625978115564
+|DocID= 202 |Title= A Control System For Logical Block Diagnosis With Data Loading |Similarity= 0.13629784518675683
+|DocID= 1506 |Title= The LACONIQ Monitor: Time Sharing for Online Dialogues |Similarity= 0.13247152722992386
+|DocID= 3023 |Title= Architecture of the IBM System/370 |Similarity= 0.12825764459890265
+|DocID= 1428 |Title= SHOCK III, A Computer System As an Aid |Similarity= 0.12773398551442539
+|DocID= 3043 |Title= Distributed Processes: A Concurrent Programming Concept |Similarity= 0.12655088688392374
+|DocID= 1827 |Title= Performance Monitoring in a Time-Sharing System |Similarity= 0.12612113324111593
+|DocID= 2843 |Title= Tools and Philosophy for Software Education  |Similarity= 0.12265457528148811
+|DocID= 3012 |Title= The Use of an Interactive Information Storage |Similarity= 0.11640966782315224
+|DocID= 3056 |Title= Counting Large Numbers of Events in Small Registers |Similarity= 0.11505925721935473
+|DocID= 1891 |Title= Three-Dimensional Computer Display |Similarity= 0.10873356545600471
+|DocID= 2667 |Title= Execution Characteristics of Programs in a Page-on-Demand System |Similarity= 0.10679314687667765
+|DocID= 1462 |Title= Multilevel Operating Systems |Similarity= 0.09982049552529935
+|DocID= 2003 |Title= An Interactive Software System for Computers-Aided |Similarity= 0.09677154606302756
+|DocID= 1179 |Title= PUFFT-The Purdue University Fast FORTRAN Translator |Similarity= 0.09409715922310267
+|DocID= 3183 |Title= Policy, Values, and EFT Research: Anatomy of a Research Agenda |Similarity= 0.09344352475419364
+|DocID= 2951 |Title= Dynamic Response Time Prediction for Computer Networks |Similarity= 0.09340110153509823
+|DocID= 1741 |Title= BRAD: The Brookhaven Raster Display |Similarity= 0.08108273301950265
+|DocID= 2314 |Title= Requirements for Advanced Programming Systems for List Processing |Similarity= 0.07979451400535906
+|DocID= 1415 |Title= Automatic Derivation of Microsentences |Similarity= 0.07772425470803805
+|DocID= 2499 |Title= Efficient Multiprogramming Resource Allocation and Accounting |Similarity= 0.07617721128201373
+
+Eval.java run example
+//Run the program
+enter numbers for w1
+0.5
+enter numbers for w2
+0.5
+List of precision values from query: What articles exist which deal with TSS (Time Sharing System), anoperating system for IBM computers? is: [1.0] relevant (#5.0) results
+AP value for query: What articles exist which deal with TSS (Time Sharing System), anoperating system for IBM computers? is: 0.2
+
+List of precision values from query: I am interested in articles written either by Prieve or Udo Pooch.APrieve, B.Pooch, U. is: [] relevant (#3.0) results
+AP value for query: I am interested in articles written either by Prieve or Udo Pooch.APrieve, B.Pooch, U. is: 0.0
+
+List of precision values from query: Intermediate languages used in construction of multi-targeted compilers; TCOLL is: [0.25] relevant (#6.0) results
+AP value for query: Intermediate languages used in construction of multi-targeted compilers; TCOLL is: 0.041666666666666664
+
+List of precision values from query: I'm interested in mechanisms for communicating between disjoint processes,possibly, but not exclusively, in a distributed environment.  I wouldrather see descriptions of complete mechanisms, with or without implementations,as opposed to theoretical work on the abstract problem.  Remote procedurecalls and message-passing are examples of my interests. is: [0.09090909090909091] relevant (#12.0) results
+AP value for query: I'm interested in mechanisms for communicating between disjoint processes,possibly, but not exclusively, in a distributed environment.  I wouldrather see descriptions of complete mechanisms, with or without implementations,as opposed to theoretical work on the abstract problem.  Remote procedurecalls and message-passing are examples of my interests. is: 0.007575757575757576
+
+List of precision values from query: I'd like papers on design and implementation of editing interfaces,window-managers, command interpreters, etc.  The essential issues arehuman interface design, with views on improvements to user efficiency,effectiveness and satisfaction. is: [1.0, 0.08, 0.09375, 0.12121212121212122, 0.14705882352941177, 0.13333333333333333] relevant (#8.0) results
+AP value for query: I'd like papers on design and implementation of editing interfaces,window-managers, command interpreters, etc.  The essential issues arehuman interface design, with views on improvements to user efficiency,effectiveness and satisfaction. is: 0.19691928475935827
+
+List of precision values from query: Interested in articles on robotics, motion planning particularly thegeometric and combinatorial aspects.  We are not interested in thedynamics of arm motion. is: [0.05] relevant (#3.0) results
+AP value for query: Interested in articles on robotics, motion planning particularly thegeometric and combinatorial aspects.  We are not interested in thedynamics of arm motion. is: 0.016666666666666666
+
+List of precision values from query: I am interested in distributed algorithms - concurrent programs inwhich processes communicate and synchronize by using message passing.Areas of particular interest include fault-tolerance and techniquesfor understanding the correctness of these algorithms. is: [0.3333333333333333, 0.5, 0.6, 0.6666666666666666, 0.625, 0.6, 0.5, 0.38095238095238093, 0.36, 0.1724137931034483, 0.1864406779661017] relevant (#28.0) results
+AP value for query: I am interested in distributed algorithms - concurrent programs inwhich processes communicate and synchronize by using message passing.Areas of particular interest include fault-tolerance and techniquesfor understanding the correctness of these algorithms. is: 0.17588595900078327
+
+List of precision values from query: Addressing schemes for resources in networks; resource addressing innetwork operating systems is: [0.25] relevant (#3.0) results
+AP value for query: Addressing schemes for resources in networks; resource addressing innetwork operating systems is: 0.08333333333333333
+
+List of precision values from query: Security considerations in local networks, network operating systems,and distributed systems. is: [0.2, 0.15384615384615385, 0.13043478260869565, 0.13333333333333333, 0.08771929824561403, 0.09836065573770492, 0.1044776119402985] relevant (#9.0) results
+AP value for query: Security considerations in local networks, network operating systems,and distributed systems. is: 0.10090798174575559
+
+List of precision values from query: Parallel languages; languages for parallel computation is: [1.0, 1.0, 1.0, 1.0, 0.8333333333333334, 0.8571428571428571, 0.7777777777777778, 0.8, 0.8181818181818182, 0.6666666666666666, 0.6875, 0.7058823529411765, 0.6842105263157895, 0.6666666666666666, 0.6818181818181818, 0.6956521739130435, 0.68, 0.6206896551724138, 0.6333333333333333, 0.625, 0.6176470588235294, 0.6285714285714286, 0.4791666666666667, 0.48, 0.49019607843137253, 0.4262295081967213, 0.39705882352941174] relevant (#35.0) results
+AP value for query: Parallel languages; languages for parallel computation is: 0.5415064259280624
+
+List of precision values from query: SETL, Very High Level Languages is: [0.14285714285714285, 0.18181818181818182, 0.25, 0.2857142857142857, 0.3333333333333333, 0.375, 0.4117647058823529, 0.36363636363636365, 0.3333333333333333, 0.29411764705882354, 0.21153846153846154, 0.1935483870967742] relevant (#19.0) results
+AP value for query: SETL, Very High Level Languages is: 0.17771904432995017
+
+List of precision values from query: portable operating systems is: [1.0, 1.0] relevant (#5.0) results
+AP value for query: portable operating systems is: 0.4
+
+List of precision values from query: code optimization for space efficiency is: [0.5, 0.6666666666666666, 0.5, 0.23529411764705882, 0.13513513513513514, 0.11538461538461539, 0.1, 0.08333333333333333] relevant (#11.0) results
+AP value for query: code optimization for space efficiency is: 0.21234671528789176
+
+List of precision values from query: find all discussions of optimal implementations of sort algorithms fordatabase management applications is: [0.5, 0.4, 0.5, 0.5714285714285714, 0.625, 0.6666666666666666, 0.7, 0.7272727272727273, 0.75, 0.7692307692307693, 0.7857142857142857, 0.8, 0.5416666666666666, 0.5, 0.5172413793103449, 0.5333333333333333, 0.53125, 0.5294117647058824, 0.5135135135135135, 0.5, 0.5121951219512195, 0.5238095238095238, 0.36507936507936506, 0.35294117647058826, 0.35714285714285715, 0.36619718309859156, 0.34615384615384615, 0.35443037974683544, 0.3625, 0.36585365853658536, 0.3069306930693069, 0.3106796116504854, 0.3173076923076923, 0.32075471698113206, 0.32710280373831774] relevant (#44.0) results
+AP value for query: find all discussions of optimal implementations of sort algorithms fordatabase management applications is: 0.39660927971770704
+
+List of precision values from query: Find all discussions of horizontal microcode optimization with specialemphasis on optimization of loops and global optimization. is: [0.3333333333333333, 0.2857142857142857, 0.375, 0.26666666666666666, 0.14705882352941177] relevant (#10.0) results
+AP value for query: Find all discussions of horizontal microcode optimization with specialemphasis on optimization of loops and global optimization. is: 0.14077731092436974
+
+List of precision values from query: find all descriptions of file handling in operating systems based onmultiple processes and message passing. is: [0.3333333333333333, 0.5, 0.21428571428571427, 0.14814814814814814, 0.16129032258064516, 0.13333333333333333, 0.08433734939759036] relevant (#17.0) results
+AP value for query: find all descriptions of file handling in operating systems based onmultiple processes and message passing. is: 0.09263107065169203
+
+List of precision values from query: Optimization of intermediate and machine code is: [0.25, 0.4, 0.375, 0.4444444444444444, 0.35714285714285715, 0.10344827586206896, 0.09090909090909091] relevant (#16.0) results
+AP value for query: Optimization of intermediate and machine code is: 0.12630904177240385
+
+List of precision values from query: Languages and compilers for parallel processors, especially highlyhorizontal microcoded machines; code compaction is: [0.0625, 0.11764705882352941, 0.13636363636363635] relevant (#11.0) results
+AP value for query: Languages and compilers for parallel processors, especially highlyhorizontal microcoded machines; code compaction is: 0.028773699562469616
+
+List of precision values from query: Parallel algorithms is: [0.5, 0.5, 0.2727272727272727, 0.25, 0.2777777777777778, 0.3157894736842105, 0.30434782608695654, 0.3333333333333333, 0.32142857142857145, 0.17857142857142858] relevant (#11.0) results
+AP value for query: Parallel algorithms is: 0.2958159712372319
+
+List of precision values from query: Graph theoretic algorithms applicable to sparse matrices is: [0.09090909090909091, 0.14285714285714285, 0.08333333333333333] relevant (#3.0) results
+AP value for query: Graph theoretic algorithms applicable to sparse matrices is: 0.1056998556998557
+
+List of precision values from query: computational complexity, intractability, class-complete reductions,algorithms and efficiency is: [0.022727272727272728, 0.043478260869565216] relevant (#11.0) results
+AP value for query: computational complexity, intractability, class-complete reductions,algorithms and efficiency is: 0.006018684872439814
+
+List of precision values from query: I am interested in hidden-line and hidden-surface algorithms forcylinders, toroids, spheres, and cones.  This is a rather specializedtopic in computer graphics. is: [] relevant (#17.0) results
+AP value for query: I am interested in hidden-line and hidden-surface algorithms forcylinders, toroids, spheres, and cones.  This is a rather specializedtopic in computer graphics. is: 0.0
+
+List of precision values from query: Distributed computing structures and algorithms is: [0.04, 0.0425531914893617, 0.06, 0.04395604395604396] relevant (#4.0) results
+AP value for query: Distributed computing structures and algorithms is: 0.04662730886135141
+
+List of precision values from query: Applied stochastic processes is: [1.0, 1.0, 0.6] relevant (#13.0) results
+AP value for query: Applied stochastic processes is: 0.2
+
+List of precision values from query: Performance evaluation and modelling of computer systems is: [1.0, 0.18181818181818182, 0.21428571428571427, 0.21052631578947367, 0.1724137931034483, 0.1935483870967742, 0.21212121212121213, 0.22857142857142856, 0.25, 0.25, 0.2558139534883721, 0.2608695652173913, 0.2765957446808511, 0.28, 0.28846153846153844, 0.2909090909090909, 0.29310344827586204, 0.27692307692307694, 0.2878787878787879, 0.2857142857142857, 0.28, 0.275, 0.26436781609195403, 0.2727272727272727, 0.22522522522522523, 0.21666666666666667] relevant (#51.0) results
+AP value for query: Performance evaluation and modelling of computer systems is: 0.14203022558914918
+
+List of precision values from query: Concurrency control mechanisms in operating systems is: [1.0, 1.0, 0.75, 0.8, 0.7142857142857143, 0.75, 0.7777777777777778, 0.8, 0.8181818181818182, 0.8333333333333334, 0.7857142857142857, 0.75, 0.6842105263157895, 0.6363636363636364, 0.46875, 0.2909090909090909, 0.30357142857142855] relevant (#30.0) results
+AP value for query: Concurrency control mechanisms in operating systems is: 0.4054365870484292
+
+List of precision values from query: Memory management aspects of operating systems is: [0.2, 0.25, 0.3, 0.36363636363636365, 0.35714285714285715, 0.3333333333333333, 0.3333333333333333, 0.2857142857142857, 0.25, 0.18181818181818182, 0.15492957746478872] relevant (#29.0) results
+AP value for query: Memory management aspects of operating systems is: 0.10378992870493597
+
+List of precision values from query: Any information on packet radio networks.  Of particular interest arealgorithms for packet routing, and for dealing with changes innetwork topography.  I am not interested in the hardware used in thenetwork. is: [0.25, 0.4] relevant (#5.0) results
+AP value for query: Any information on packet radio networks.  Of particular interest arealgorithms for packet routing, and for dealing with changes innetwork topography.  I am not interested in the hardware used in thenetwork. is: 0.13
+
+List of precision values from query: Number-theoretic algorithms, especially involving prime number series,sieves, and Chinese Remainder theorem. is: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.6, 0.6190476190476191, 0.6086956521739131] relevant (#19.0) results
+AP value for query: Number-theoretic algorithms, especially involving prime number series,sieves, and Chinese Remainder theorem. is: 0.6751443826958701
+
+List of precision values from query: Articles on text formatting systems, including "what you see is what youget" systems.  Examples: t/nroff, scribe, bravo. is: [0.09090909090909091, 0.16666666666666666] relevant (#4.0) results
+AP value for query: Articles on text formatting systems, including "what you see is what youget" systems.  Examples: t/nroff, scribe, bravo. is: 0.06439393939393939
+
+List of precision values from query: I'd like to find articles describing the use of singular value decompositionin digital image processing.  Applications include finding approximationsto the original image and restoring images that are subject to noise. Anarticle on the subject is H.C. Andrews and C.L. Patterson "Outer productexpansions and their uses in digital image processing", American MathematicalMonthly, vol. 82..AAndrews, H.C.Patterson, C.L. is: [0.1111111111111111, 0.13333333333333333] relevant (#2.0) results
+AP value for query: I'd like to find articles describing the use of singular value decompositionin digital image processing.  Applications include finding approximationsto the original image and restoring images that are subject to noise. Anarticle on the subject is H.C. Andrews and C.L. Patterson "Outer productexpansions and their uses in digital image processing", American MathematicalMonthly, vol. 82..AAndrews, H.C.Patterson, C.L. is: 0.12222222222222222
+
+List of precision values from query: I'd like to find articles describing graph algorithms that are based onthe eigenvalue decomposition (or singular value decomposition) of theajacency matrix for the graph.  I'm especially interested in any heuristicalgorithms for graph coloring and graph isomorphism using this method. is: [0.25, 0.4, 0.16666666666666666] relevant (#3.0) results
+AP value for query: I'd like to find articles describing graph algorithms that are based onthe eigenvalue decomposition (or singular value decomposition) of theajacency matrix for the graph.  I'm especially interested in any heuristicalgorithms for graph coloring and graph isomorphism using this method. is: 0.2722222222222222
+
+List of precision values from query: Articles about the sensitivity of the eigenvalue decomposition of realmatrices, in particular, zero-one matrices.  I'm especially interested inthe separation of eigenspaces corresponding to distinct eigenvalues.Articles on the subject:C. Davis and W.M. Kahn, "The rotation of eigenvectors by a permutation:,SIAM J. Numerical Analysis, vol. 7, no. 1 (1970); G.W. Stewart, "Errorbounds for approximate invariant subspaces of closed linear operators",SIAM J. Numerical Analysis., Vol. 8, no. 4 (1971)..ADavis, C.Kahn, W.M.Stewart, G.W. is: [] relevant (#1.0) results
+AP value for query: Articles about the sensitivity of the eigenvalue decomposition of realmatrices, in particular, zero-one matrices.  I'm especially interested inthe separation of eigenspaces corresponding to distinct eigenvalues.Articles on the subject:C. Davis and W.M. Kahn, "The rotation of eigenvectors by a permutation:,SIAM J. Numerical Analysis, vol. 7, no. 1 (1970); G.W. Stewart, "Errorbounds for approximate invariant subspaces of closed linear operators",SIAM J. Numerical Analysis., Vol. 8, no. 4 (1971)..ADavis, C.Kahn, W.M.Stewart, G.W. is: 0.0
+
+List of precision values from query: Currently interested in isolation of root of polynomial; there is an oldarticle by Heindel, L.E. in J. ACM, Vol. 18, 533-548.  I would like to findmore recent material..AHeindel, L.E. is: [] relevant (#0.0) results
+List of precision values from query: Probabilistic algorithms especially those dealing with algebraic andsymbolic manipulation.  Some examples:Rabiin, "Probabilistic algorithm on finite field", SIAMWaztch, "Probabilistic testing of polynomial identities", SIAM.ARabin,M. is: [] relevant (#0.0) results
+List of precision values from query: Fast algorithm for context-free language recognition or parsing is: [0.14285714285714285, 0.09090909090909091, 0.08108108108108109, 0.10256410256410256, 0.10869565217391304] relevant (#20.0) results
+AP value for query: Fast algorithm for context-free language recognition or parsing is: 0.026305353479266526
+
+List of precision values from query: Articles describing the relationship between data types and concurrency(e.g. what is the type of a process?  when is a synchronization attemptbetween two processes "type correct"?  in a message-passing system is thereany notion of the types of messages?--i.e. any way to check that the senderof the message and the receiver are both treating the bit stream as someparticular type) is: [0.5, 0.1, 0.14285714285714285] relevant (#12.0) results
+AP value for query: Articles describing the relationship between data types and concurrency(e.g. what is the type of a process?  when is a synchronization attemptbetween two processes "type correct"?  in a message-passing system is thereany notion of the types of messages?--i.e. any way to check that the senderof the message and the receiver are both treating the bit stream as someparticular type) is: 0.06190476190476191
+
+List of precision values from query: What is the type of a module?	(I don't want the entire literature onAbstract Data Types here, but I'm not sure how to phrase this to avoid it.I'm interested in questions about how one can check that a module "matches"contexts in which it is used.) is: [0.0625] relevant (#16.0) results
+AP value for query: What is the type of a module?	(I don't want the entire literature onAbstract Data Types here, but I'm not sure how to phrase this to avoid it.I'm interested in questions about how one can check that a module "matches"contexts in which it is used.) is: 0.00390625
+
+List of precision values from query: What does type compatibility mean in languages that allow programmerdefined types?  (You might want to restrict this to "extensible" languagesthat allow definition of abstract data types or programmer-supplieddefinitions of operators like *, +.) is: [0.08333333333333333, 0.15384615384615385, 0.17647058823529413, 0.21052631578947367, 0.22727272727272727, 0.11320754716981132, 0.125] relevant (#12.0) results
+AP value for query: What does type compatibility mean in languages that allow programmerdefined types?  (You might want to restrict this to "extensible" languagesthat allow definition of abstract data types or programmer-supplieddefinitions of operators like *, +.) is: 0.09080472213723279
+
+List of precision values from query: List all articles dealing with data types in the following languages:Pascal, CLU, Alphard, Russell, Ada, ALGOL 68, EL1.  List any other languagesthat are referenced frequently in papers on the above languages (e.g. catchany languages with interesting type structures that I might have missed). is: [0.045454545454545456, 0.08333333333333333, 0.08823529411764706, 0.10810810810810811, 0.13157894736842105] relevant (#10.0) results
+AP value for query: List all articles dealing with data types in the following languages:Pascal, CLU, Alphard, Russell, Ada, ALGOL 68, EL1.  List any other languagesthat are referenced frequently in papers on the above languages (e.g. catchany languages with interesting type structures that I might have missed). is: 0.0456710228382055
+
+List of precision values from query: Theory of distributed systems and databases.  Subtopics of specialinterest include reliability and fault-tolerance in distributed systems,atomicity, distributed transactions, synchronization algorithms,resource allocation; lower bounds and models for asynchronous parallelsystems.  Also theory of communicating processes and protocols. is: [] relevant (#0.0) results
+List of precision values from query: Computer performance evaluation techniques using pattern recognitionand clustering. is: [0.07142857142857142, 0.125, 0.08823529411764706, 0.09523809523809523, 0.09433962264150944] relevant (#21.0) results
+AP value for query: Computer performance evaluation techniques using pattern recognitionand clustering. is: 0.022582932544086814
+
+List of precision values from query: Analysis and perception of shape by humans and computers.  Shapedescriptions, shape recognition by computer.  Two-dimensional shapes.Measures of circularity.  Shape matching. is: [0.3333333333333333, 0.2] relevant (#41.0) results
+AP value for query: Analysis and perception of shape by humans and computers.  Shapedescriptions, shape recognition by computer.  Two-dimensional shapes.Measures of circularity.  Shape matching. is: 0.013008130081300813
+
+List of precision values from query: Texture analysis by computer.	Digitized texture analysis.  Texturesynthesis. Perception of texture. is: [1.0, 1.0, 1.0] relevant (#17.0) results
+AP value for query: Texture analysis by computer.	Digitized texture analysis.  Texturesynthesis. Perception of texture. is: 0.17647058823529413
+
+List of precision values from query: The use of operations research models to optimize information systemperformance.  This includes fine tuning decisions such as secondary indexselection, file reorganization, and distributed databases. is: [0.14285714285714285, 0.2, 0.2727272727272727, 0.19047619047619047, 0.13157894736842105] relevant (#26.0) results
+AP value for query: The use of operations research models to optimize information systemperformance.  This includes fine tuning decisions such as secondary indexselection, file reorganization, and distributed databases. is: 0.03606305974727027
+
+List of precision values from query: The application of fuzzy subset theory to clustering and informationretrieval problems.  This includes performance evaluation and automaticindexing considerations. is: [] relevant (#0.0) results
+List of precision values from query: The use of Bayesian decision models to optimize information retrievalsystem performance.  This includes stopping rules to determine when auser should cease scanning the output of a retrieval search. is: [] relevant (#0.0) results
+List of precision values from query: The use of computer science principles (e.g. data structures,numerical methods) in generating optimization (e.g. linear programming)algorithms.  This includes issues of the Khachian (Russian, ellipsoidal)algorithm and complexity of such algorithms. is: [0.037037037037037035, 0.05405405405405406, 0.04918032786885246, 0.041666666666666664, 0.05154639175257732, 0.061224489795918366] relevant (#12.0) results
+AP value for query: The use of computer science principles (e.g. data structures,numerical methods) in generating optimization (e.g. linear programming)algorithms.  This includes issues of the Khachian (Russian, ellipsoidal)algorithm and complexity of such algorithms. is: 0.024559080597925494
+
+List of precision values from query: The role of information retrieval in knowledge based systems(i.e., expert systems). is: [0.16666666666666666, 0.2] relevant (#8.0) results
+AP value for query: The role of information retrieval in knowledge based systems(i.e., expert systems). is: 0.04583333333333334
+
+List of precision values from query: Parallel processors in information retrieval is: [] relevant (#0.0) results
+List of precision values from query: Parallel processors and paging algorithms is: [] relevant (#0.0) results
+List of precision values from query: Modelling and simulation in agricultural ecosystems. is: [] relevant (#0.0) results
+List of precision values from query: mathematical induction, group theory, integers modulo m,probability, binomial coefficients, binomial theorem, homomorphism,morphism, transitivity, relations, relation matrix. is: [] relevant (#0.0) results
+List of precision values from query: Semantics of programming languages, including abstract specificationsof data types, denotational semantics, and proofs of correctness..AHoare, A.Dijkstra, E. is: [] relevant (#0.0) results
+List of precision values from query: Anything dealing with star height of regular languages or regularexpressions or regular events. is: [] relevant (#0.0) results
+List of precision values from query: Articles relation the algebraic theory of semigroups and monoidsto the study of automata and regular languages. is: [] relevant (#0.0) results
+List of precision values from query: Abstracts of articles:J. Backus, "Can programming be liberated from the Von Neumann style?A functional style and its algebra of programs", CACM 21(1978), 613-641.R.A.De Millo, R.J. Lipton, A.J. Perlis, letter to ACM Forum, CACM 22(1979), 629-630.ABackus, J.De Millo, R.A.Lipton, R.J.Perlis, A.J. is: [1.0] relevant (#1.0) results
+AP value for query: Abstracts of articles:J. Backus, "Can programming be liberated from the Von Neumann style?A functional style and its algebra of programs", CACM 21(1978), 613-641.R.A.De Millo, R.J. Lipton, A.J. Perlis, letter to ACM Forum, CACM 22(1979), 629-630.ABackus, J.De Millo, R.A.Lipton, R.J.Perlis, A.J. is: 1.0
+
+List of precision values from query: Algorithms or statistical packages for ANOVA, regression using leastsquares or generalized linear models.  System design, capabilities,statistical formula are of interest.  Student's t test, Wilcoxon andsign tests, multivariate and univariate components can be included. is: [1.0, 0.4, 0.5, 0.5, 0.5555555555555556, 0.6, 0.3181818181818182, 0.34782608695652173, 0.3333333333333333, 0.3448275862068966, 0.36666666666666664] relevant (#30.0) results
+AP value for query: Algorithms or statistical packages for ANOVA, regression using leastsquares or generalized linear models.  System design, capabilities,statistical formula are of interest.  Student's t test, Wilcoxon andsign tests, multivariate and univariate components can be included. is: 0.1755463682300264
+
+List of precision values from query: Dictionary construction and accessing methods for fast retrievalof words or lexical items or morphologically related information.Hashing or indexing methods are usually applied to English spelling ornatural language problems. is: [0.3333333333333333, 0.5, 0.375, 0.4444444444444444, 0.5, 0.46153846153846156, 0.5, 0.5, 0.5, 0.4, 0.39285714285714285] relevant (#43.0) results
+AP value for query: Dictionary construction and accessing methods for fast retrievalof words or lexical items or morphologically related information.Hashing or indexing methods are usually applied to English spelling ornatural language problems. is: 0.11412031121333449
+
+List of precision values from query: Hardware and software relating to database management systems.Database packages, back end computers, special associative hardwarewith microcomputers attached to disk heads or things like RAP,relational or network (CODASYL) or hierarchical models, systemslike SYSTEM R, IMS, ADABAS, TOTAL, etc. is: [0.5, 0.5, 0.6, 0.6666666666666666, 0.3125] relevant (#27.0) results
+AP value for query: Hardware and software relating to database management systems.Database packages, back end computers, special associative hardwarewith microcomputers attached to disk heads or things like RAP,relational or network (CODASYL) or hierarchical models, systemslike SYSTEM R, IMS, ADABAS, TOTAL, etc. is: 0.09552469135802469
+
+List of precision values from query: Information retrieval articles by Gerard Salton or others about clustering,bibliographic coupling, use of citations or co-citations, the vectorspace model, Boolean search methods using inverted files, feedback, etc..ASalton, G. is: [0.25, 0.4, 0.375, 0.25, 0.20833333333333334, 0.23076923076923078, 0.22580645161290322, 0.2, 0.21951219512195122, 0.2222222222222222, 0.20754716981132076] relevant (#31.0) results
+AP value for query: Information retrieval articles by Gerard Salton or others about clustering,bibliographic coupling, use of citations or co-citations, the vectorspace model, Boolean search methods using inverted files, feedback, etc..ASalton, G. is: 0.08997389041519233
+
+List of precision values from query: Results relating parallel complexity theory (both for PRAM's anduniform circuits). is: [0.034482758620689655, 0.03225806451612903, 0.04, 0.044444444444444446] relevant (#8.0) results
+AP value for query: Results relating parallel complexity theory (both for PRAM's anduniform circuits). is: 0.01889815844765789
+
+List of precision values from query: Algorithms for parallel computation, and especially comparisonsbetween parallel and sequential algorithms. is: [0.25, 0.25, 0.14285714285714285, 0.17391304347826086, 0.1724137931034483, 0.1935483870967742, 0.21875, 0.2, 0.21951219512195122, 0.2222222222222222] relevant (#12.0) results
+AP value for query: Algorithms for parallel computation, and especially comparisonsbetween parallel and sequential algorithms. is: 0.17026806532331662
+
+List of precision values from query: List all articles on EL1 and ECL (EL1 may be given as EL/1; I don'tremember how they did it. is: [] relevant (#1.0) results
+AP value for query: List all articles on EL1 and ECL (EL1 may be given as EL/1; I don'tremember how they did it. is: 0.0
+
+Final MAP value is: 0.14847058242993738

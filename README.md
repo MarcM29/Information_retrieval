@@ -1,5 +1,5 @@
 # Info retrieval Project
-Authors: 
+Authors: \n 
 Marc McCombe & Xiangyu Lu
 
 # Program description:

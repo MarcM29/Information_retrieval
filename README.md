@@ -1,6 +1,5 @@
 # Info retrieval Project
-Authors: \n 
-Marc McCombe & Xiangyu Lu
+Authors: Marc McCombe & Xiangyu Lu
 
 # Program description:
 A complete information retrieval system that reads a vast document collection consisting of thousands of documents. Based on an 

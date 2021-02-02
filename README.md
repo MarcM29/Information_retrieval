@@ -1,3 +1,4 @@
+# *This was a school project from 2019*
 # Info retrieval Project
 Authors: Marc McCombe & Xiangyu Lu
 
